@@ -1,2 +1,1 @@
-# My-Test-PR
-testing pr
+This is a test repo for the practicals
